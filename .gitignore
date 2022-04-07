@@ -1,0 +1,5 @@
+.idea
+*.env
+http
+dist
+node_modules
